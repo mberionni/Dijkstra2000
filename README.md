@@ -8,3 +8,4 @@ Developed october-december 2000.
 
 Relased as DLL, VB user interface. 
 
+Additional comment 20 Oct 2018
